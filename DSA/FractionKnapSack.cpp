@@ -1,0 +1,2 @@
+// Given three items with weights 10, 20, and 30, and values 60, 100, and 120, find the maximum value you can place in a knapsack of capacity 50 units if you can take fractional quantities of items.
+// Show the total value and what fractions you pick.
